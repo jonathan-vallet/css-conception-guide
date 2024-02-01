@@ -20,3 +20,7 @@ Ce guide est le fruit de mon expérience personnelle, et de mes lectures. Il n�
 - [Comprendre son client](/01-conception/03-comprendre-son-client.md)
 - [Découpage des maquettes](/01-conception/04-decoupage-des-maquettes.md)
 - [Design Atomique](/01-conception/05-design-atomique.md)
+- [Retours sur les maquettes](/01-conception/06-retours-maquettes.md)
+- [Conventions de nommage](/01-conception/07-conventions.md)
+- [Styleguide](/01-conception/08-styleguide.md)
+- [Tests automatisés](/01-conception/09-tests.md)

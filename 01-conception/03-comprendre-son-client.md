@@ -1,6 +1,6 @@
 # 2.3. Comprendre son client
 
-Après mes études d’informatique j’ai fait une école de Game Design. Le travail d’un game designer n’est pas d’avoir une idée de jeu, ça, tout le monde peut en avoir. Son principal travail est de pouvoir communiquer avec tout un tas de personnes, de l’éditeur au développeur en passant par le marketing, le joueur, le graphiste…
+Après mes études d’informatique, j’ai fait une école de Game Design. Le travail d’un game designer n’est pas d’avoir une idée de jeu, ça, tout le monde peut en avoir. Son principal travail est de pouvoir communiquer de nombreux corps de métiers, de l’éditeur au développeur en passant par le marketing, le joueur, le graphiste…
 
 Dans ce métier on apprend à se mettre à la place des gens, et ça s’applique très bien au web.
 
@@ -9,13 +9,13 @@ Avant même de commencer à développer un site, il faut se mettre à la place d
 - Est-ce une refonte d’un site existant, avec les mêmes fonctionnalités et quelques nouveautés et une refonte du design ? Si c’est le cas, on peut facilement comparer les nouvelles maquettes avec le site existant pour comparer les intentions de l’ancien site et du nouveau.
 - Est-ce un site institutionnel pour présenter la société, un extranet pour des collaborateurs, un mini-site pour le lancement d’un nouveau produit, une boutique en ligne… ?
 - Pour quel type de client/marque/produit le site est-il créé ? Est-ce que le but du site est d’avoir un effet wahou pour que les utilisateurs se souviennent de leur visite sur le site ? un produit de luxe avec des animations travaillées mais sobre ? une marque grand-public qui privilégie l’efficacité et le confort de navigation ?
-- Est une opération commerciale pour faire connaître un produit, avec un enjeu viral de visibilité, ou de récupérer des e-mails optins pour des communications futures?
+- Est-ce une opération commerciale pour faire connaître un produit, avec un enjeu viral de visibilité, ou de récupérer des e-mails optins pour des communications futures?
 
 > Exemples
 >
-> Sur un site pour permettre à des pomiculteurs de gérer leurs stocks et la distribution de leurs produits, la cible n'est pas forcément habituée aux outils informatique, il faudra une intégration simple et efficace, sans trop d'animations, mais un maximum de feedback sur les actions pour qu'ils sachent toujours ce qu'il se passe. Le mobile sera sans doute moins prioritaire pour leur utilisation, on mettra l'accent sur la navigation desktop.
-> Pour le site d'une nouvelle gamme d'un champagne renommé, il faudra des belles animations, des transitions entre les éléments, autant sur mobile que grand écran, le tout avec un maximum de fluidité.
-> Pour le lancement d'une nouvelle voiture de luxe, ciblant des personnes avec un certain portefeuille, potentiellement souvent en déplacement, on privilégiera une expérience mobile et tablette, assez sobre et des animations rapides et efficaces, car on sait que le temps passé sur le site sera très court.
+> - Sur un site pour permettre à des pomiculteurs de gérer leurs stocks et la distribution de leurs produits, la cible n'est pas forcément habituée aux outils informatique, il faudra une intégration simple et efficace, sans trop d'animations, mais un maximum de feedback sur les actions pour qu'ils sachent toujours ce qu'il se passe. Le mobile sera sans doute moins prioritaire pour leur utilisation, on mettra l'accent sur la navigation desktop.
+> - Pour le site d'une nouvelle gamme d'un champagne renommé, il faudra des belles animations, des transitions entre les éléments, autant sur mobile que grand écran, tout en assurant une fluidité maximale.
+> - Pour le lancement d'une nouvelle voiture de luxe, ciblant des personnes avec un certain portefeuille, potentiellement souvent en déplacement, on privilégiera une expérience mobile et tablette, assez sobre et des animations rapides et efficaces, car on sait que le temps passé sur le site sera très court.
 
 Vous l’aurez compris, avant même de commencer un site, il faut savoir pourquoi on le réalise pour ne pas se tromper sur les intentions du client. Un site a un certain coût et le client un certain budget, et même s’il n’y connaît rien en technique, il sait pourquoi il veut un site.
 

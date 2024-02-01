@@ -4,9 +4,9 @@ Ce travail préparatoire du découpage des maquettes suit la logique du design a
 
 ([http://bradfrost.com/blog/post/atomic-web-design/](http://bradfrost.com/blog/post/atomic-web-design/))
 
-Le principe est de ne plus réaliser un site page par page, mais de le penser par composants. Ces dernières années on a de plus en plus cette approche avec React ou Vue, mais le découpage n’est pas toujours bien compris ou réalisé, et on trouve encore beaucoup de duplication de code côté CSS.
+Le principe est de ne plus réaliser un site page par page, mais de le penser par composants. Ces dernières années, on a de plus en plus cette approche avec React ou Vue, mais le découpage n’est pas toujours bien compris ou réalisé, et on trouve encore beaucoup de duplication de code côté CSS.
 
-Pour avoir réalisé un certain nombre de projets suivant le design atomique, j’ai une approche légèrement différente du découpage:
+Pour avoir réalisé un certain nombre de projets suivant le design atomique, j’ai une approche légèrement différente du découpage proposé par Brad Frost:
 
 - les **atomes**, qui sont les plus petits éléments à la base de votre _design system_;
 - les **molécules** qui combinent des atomes et éventuellement d’autres molécules;
@@ -14,7 +14,7 @@ Pour avoir réalisé un certain nombre de projets suivant le design atomique, j�
 - le **layout** qui pourrait correspondre aux cellules, gère les variation de mise en page suivant les templates, la composition des blocs dans la page pour séparer correctement et uniformément les différentes sections;
 - les pages, qui forment des **individus** entiers et différents mais tous composés d’un ensemble de cellules.
 
-Je retire la notion de templates qui sont des pages avec un contenu neutre, qui font totalement sens dans la [réalisation du styleguide](06-styleguide.md), qui permet de se représenter la page comme l’Homme de Vitruve de Léonard de Vinci, mais qui reste une représentation, pas un véritable individu.
+Je retire la notion de templates qui sont des pages avec un contenu neutre, qui font totalement sens dans la [réalisation du styleguide](08-styleguide.md), qui permet de se représenter la page comme l’Homme de Vitruve de Léonard de Vinci, mais qui reste une représentation, pas un véritable individu.
 
 ![](../images/vitruve.jpg)
 

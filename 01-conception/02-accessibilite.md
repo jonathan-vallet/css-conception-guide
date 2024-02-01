@@ -1,17 +1,18 @@
 # 2.2. Accessibilité
 
-L’accessibilité, s’écrit généralement a11y – prononcer ally – pour la contraction de accessibility avec la première lettre “a”, le nombre de lettres entre celles-ci et la dernière lettre “y”. Dès la naissance du web il y a plus de 30 ans maintenant (le 12 mars 1989), son créateur Tim Berners-Lee, aujourd’hui directeur du W3C (World Wide Web consortium), voulait en faire un bien commun à tous. Selon lui:
+L’accessibilité est souvent abrégée en _a11y_ ce qui représente “a” suivi du nombre de lettres entre “a” et “y” dans le mot \*
+_accessibility_, puis “y”. Dès la naissance du web il y a plus de 30 ans maintenant (le 12 mars 1989), son créateur Tim Berners-Lee, aujourd’hui directeur du W3C (World Wide Web consortium), voulait en faire un bien commun à tous. Selon lui:
 
-    __"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."__
+> "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."
 
 <p style="text-align: right">
 <em>-- Tim Berners-Lee, directeur du W3C inventeur du World Wide Web</em></p>
 
-L’accessibilité numérique doit être prise en compte dès la conception matérielle. La plupart des distributeurs de billets de métro ne permettent pas la synthèse vocale, les rendant inaccessible au non-voyant. Au niveau logiciel, les systèmes d’exploitation et navigateurs récents sont conformes aux règles d’accessibilité. Là où il reste du travail à faire, c’est sur l’accessibilité des contenus, et notamment des pages webs.
+L’accessibilité numérique doit être prise en compte dès la conception matérielle. La plupart des distributeurs de billets de métro ne permettent pas la synthèse vocale, les rendant inaccessibles aux non-voyants. Au niveau logiciel, les systèmes d’exploitation et navigateurs récents sont conformes aux règles d’accessibilité. Là où il reste du travail à faire, c’est sur l’accessibilité des contenus, et notamment des pages webs.
 
 On confond souvent par abus de langage le handicap et la déficience. La déficience est le constat de la perte ou l’altération d’une structure ou fonction psychologique, physiologique ou anatomique. les déficiences engendrent des incapacités:
 
-- une déficience visuelle (malvoyant, aveugle, daltonien…) engendre une incapacité à voir correctement ou à correctement distinguer les couleurs par exemple;
+- une déficience visuelle (malvoyant, aveugle, daltonien…) engendre une incapacité à voir correctement ou à correctement distinguer les couleurs;
 - une déficience auditive (sourd, malentendant…) engendre une incapacité à entendre correctement;
 - des troubles moteurs engendrent une difficulté ou impossibilité à utiliser certains membres…
 - des déficiences intellectuelles (alzheimer, sclérose en plaque, troubles "dys" comme la dyslexie, trouble de l'attention...) qui engendrent diverses incapacités, notamment de concentration, compréhension ou mémorisation.
@@ -43,7 +44,7 @@ Il existe différents outils de compensation suivant le type de handicap commes 
 > Ce chiffre monte à 40% si on prend en compte les situations de handicap temporaire, soit fracture empêchant l'utilisation de souris, des lunettes cassées empêchant la bonne lisibilité d'un site…
 >
 > D'après le rapport établi par l'OMS en 2011, le handicap concernerait 15% de la population mondiale.
-> ([source](https://www.who.int/disabilities/world_report/2011/report/fr/))
+> ([source](https://www.who.int/publications/i/item/9789241564182))
 >
 > Il faut également prendre en compte le fait que la population est vieillissante dans de nombreux pays.
 >
@@ -51,7 +52,7 @@ Il existe différents outils de compensation suivant le type de handicap commes 
 
 ## 2.2.1. Les WCAG
 
-L’accessibilité est définie par les WCAG (Web Content Accessibility Guidelines), recommandations publiées par la WAI (Web Accessibility Initiative) qui est le groupe de travail spécialisé sur l’accessibilité du W3C. Le but est de fournir aux concepteurs de sites web (UI / UX, développeurs, chefs de projets, rédacteurs etc) un certain nombre de conseils et recommandations afin de rendre les sites accessibles aux personnes en situation de handicap.
+L’accessibilité est définie par les **WCAG** (Web Content Accessibility Guidelines), recommandations publiées par la WAI (Web Accessibility Initiative) qui est le groupe de travail spécialisé sur l’accessibilité du W3C. Le but est de fournir aux concepteurs de sites web (UI / UX, développeurs, chefs de projets, rédacteurs etc) un certain nombre de conseils et recommandations afin de rendre les sites accessibles aux personnes en situation de handicap.
 
 Les WCAG sont enregistrées en norme internationale ISO (ISO/IEC 40500:2012), ce qui est intéressant pour propager les recommandations aux grandes entreprises qui respectent les normes ISO. Ses spécifications reposent que 4 grands principes:
 

@@ -7,10 +7,10 @@ Quand je reçois les maquettes d’un site, la première étape va être de les 
 Cet exercice a plusieurs intérêts :
 
 - Un tel découpage vous permet de savoir où vous allez, de mieux connaître le site et chacune des pages maquettée ; et d’avoir une vision globale à tout moment;
-- Anticiper au plus tôt les retours éventuels aux graphistes (voir chapitre suivant);
+- Anticiper le plus tôt possible les retours éventuels aux graphistes (voir chapitre suivant);
 - Faciliter l’intégration d’un autre développeur sur le projet : si quelqu’un vous rejoint pour s’occuper de l’intégration d’un template, il identifiera rapidement les blocs réutilisé d’autres templates déjà intégrés, les différents composants… et ne développera pas pour son template des éléments qui étaient déjà intégrés ailleurs.
 
-Le découpage peut être assez grossier, le but est d’identifier rapidement les éléments. En général je crée des groupes pour les atomes, composants et blocs, j’encadre chaque élément qui revient sur chaque page sur un calque différent, avec chacun une couleur distincte. C’est aussi le bon moment pour donner un nom cohérent à chaque bloc, ou relever certains incohérences entre certains templates.
+Le découpage peut être assez grossier, L'objectif étant une identification rapide et efficace des éléments. En général je crée des groupes pour les atomes, composants et blocs, j’encadre chaque élément qui revient sur chaque page sur un calque différent, avec chacun une couleur distincte. C’est aussi le bon moment pour donner un nom cohérent à chaque bloc, ou relever certains incohérences entre certains templates.
 
 > Exemples
 >
