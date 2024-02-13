@@ -22,8 +22,6 @@ Les tests fonctionnels sont à faire tout au long du projet dès le développeme
 
 Pour réaliser des tests fonctionnels il y a des outils comme CasperJS, ou plus récemment Cypress, qui permet un export de mini vidéos sur les jeux de tests et est simple à prendre en main.
 
-##
-
 ## 2.9.2. Tests de non régression visuelle
 
 Ces outils de test sont là pour valider que d’une étape à une autre lors de l’intégration de votre site, il n’y ait pas de régression visuelle sur un bloc déjà finalisé.
@@ -36,8 +34,6 @@ Ces outils deviennent terriblement efficace après avoir intégré plus d’une 
 
 J’aime beaucoup BackstopJS personnellement, mais il existe tout un tas d’outils différents comme Wraith, WebdriverCSS… chacun ayant ses points forts et ses faiblesses. Tout dépendra de vos besoins pour ce genre d’outils, entre un site statique ou un site dynamique, la plateforme de test que vous préférez, le langage utilisé pour la configuration, l’interface et les formats de rendu possibles…
 
-##
-
 ## 2.9.3. Tests de performance
 
 Un des outil les plus connu pour tester les performances d’un site est le _Google PageSpeed Insights_ ([https://developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights)).
@@ -46,9 +42,9 @@ Avoir un bon score ne garantit en rien la qualité de votre code, mais donne que
 
 Plus généralement, il faut limiter au maximum le nombre de requêtes, chacune demandant un temps de réponse du serveur. Il est souvent plus rapide de télécharger une seule ressource de 1Mo que 10 ressources de 50ko.
 
-### 2.10.3.1. Optimisation des images
+### 2.9.3.1. Optimisation des images
 
-A chaque fois qu’une image est utilisée sur le site que vous développez, essayez d’avoir le meilleur dimensionnement possible entre la taille de l’écran et le poids de l’image. Si une image fait toute la largeur de l’écran, il faudra prévoir différentes tailles adaptées au tablettes et mobile avec d’autres dimension et l’utilisation de &lt;picture> et srcset. Il est inutile d’avoir une image de 1980px de large sur un téléphone.
+A chaque fois qu’une image est utilisée sur le site que vous développez, essayez d’avoir le meilleur dimensionnement possible entre la taille de l’écran et le poids de l’image. Si une image fait toute la largeur de l’écran, il faudra prévoir différentes tailles adaptées au tablettes et mobile avec d’autres dimension et l’utilisation de &lt;picture&gt; et srcset. Il est inutile d’avoir une image de 1980px de large sur un téléphone.
 
 Regroupez un maximum d’assets sur des sprites. Dans l’idéal utilisez des sprites SVG ([https://css-tricks.com/svg-sprites-use-better-icon-fonts/](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)), qui ont un bon rendu, prennent peu de place et sont accessibles. Il faut les privilégier aux fonticon qui ont été longtemps utilisées, mais présentent quelques inconvénients, notamment pour l’accessibilité.
 

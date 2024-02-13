@@ -24,3 +24,14 @@ Ce guide est le fruit de mon expérience personnelle, et de mes lectures. Il n�
 - [Conventions de nommage](/01-conception/07-conventions.md)
 - [Styleguide](/01-conception/08-styleguide.md)
 - [Tests automatisés](/01-conception/09-tests.md)
+
+### Conception de jeux vidéos vs le web d’aujourd’hui
+
+- [Signs &amp; Feedbacks](/02-jeux-videos/01-signs-feedbacks.md)
+- [Prototypage et étapes de conception](/02-jeux-videos/02-prototypage.md)
+
+## Licence
+
+Ce guide est sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr). Vous êtes libre de le partager et de l’adapter, à condition de citer l’auteur et de ne pas en faire une utilisation commerciale.
+
+© 2024 Jonathan Vallet (Satanimax). Tous droits réservés.
