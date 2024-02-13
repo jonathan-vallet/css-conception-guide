@@ -8,5 +8,5 @@ Le but de ce chapitre est de présenter quelques concepts présents depuis longt
 
 ## Chapitres
 
-- [Signs &amp; Feedbacks](01-signs-feedbacks.md)
-- [Prototypage et étapes de conception](02-prototypage.md)
+- [Signs &amp; Feedbacks](02-signs-feedbacks.md)
+- [Prototypage et étapes de conception](03-prototypage.md)

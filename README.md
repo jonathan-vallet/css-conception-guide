@@ -27,8 +27,9 @@ Ce guide est le fruit de mon expérience personnelle, et de mes lectures. Il n�
 
 ### Conception de jeux vidéos vs le web d’aujourd’hui
 
-- [Signs &amp; Feedbacks](/02-jeux-videos/01-signs-feedbacks.md)
-- [Prototypage et étapes de conception](/02-jeux-videos/02-prototypage.md)
+- [Intro](/02-jeux-videos/01-intro.md)
+- [Signs &amp; Feedbacks](/02-jeux-videos/02-signs-feedbacks.md)
+- [Prototypage et étapes de conception](/02-jeux-videos/03-prototypage.md)
 
 ## Licence
 
