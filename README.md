@@ -30,6 +30,12 @@ Ce guide est le fruit de mon expérience personnelle, et de mes lectures. Il n�
 - [Intro](/02-jeux-videos/01-intro.md)
 - [Signs &amp; Feedbacks](/02-jeux-videos/02-signs-feedbacks.md)
 - [Prototypage et étapes de conception](/02-jeux-videos/03-prototypage.md)
+- [3C](/02-jeux-videos/04-3c.md)
+
+### Comment ça fonctionne
+
+- [Intro](/03-fonctionnement/01-intro.md)
+- [Comment s'affichage une page web](03-fonctionnement/02-affichage-page.md)
 
 ## Licence
 
