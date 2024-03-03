@@ -31,4 +31,4 @@ Je crée une sélection avec tous les éléments similaires (en comptant les var
 
 _Découpage des éléments de bloc (organismes), nommés et regroupés_
 
-En théorie ce travail n'est plus à faire aujourd'hui compet tenu de l'évolution des outils permettant de travailler en design system. Et avec l'expérience on peut rapidement identifier les éléments répétés. Mais si vous avez à travailler sur des maquettes sans design system, cet exercice peut vous faire gagner beaucoup de temps.
+En théorie ce travail n'est plus à faire aujourd'hui, compte tenu de l'évolution des outils permettant de travailler en design system. Et, avec l'expérience, on peut rapidement identifier les éléments répétés. Mais si vous avez à travailler sur des maquettes sans design system, cet exercice peut vous faire gagner beaucoup de temps.
