@@ -11,3 +11,5 @@ Lorsqu'on explore l'onglet performances de Chrome, on observe plusieurs étapes 
 ## Chapitres
 
 - [Comment s'affichage une page web](03-fonctionnement/02-affichage-page.md)
+- [Le viewport](03-fonctionnement/03-viewport.md)
+- [L’empilement et le z-index](03-fonctionnement/04-empilement.md)

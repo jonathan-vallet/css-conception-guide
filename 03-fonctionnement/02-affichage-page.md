@@ -2,7 +2,7 @@
 
 ## 3.1.1. La récupération des données
 
-Pour qu'une page web s'affiche correctement dans un navigateur, plusieurs étapes sont nécessaires, depuis l'appel HTTP initial jusqu'au rendu final à l'écran. Optimiser les performances d'un site implique souvent d'améliorer le **chemin critique de rendu** (_critical rendering path_ en anglais). Comprendre le processus de rendu d'une page est essentiel pour y parvenir.
+Pour qu'une page web s'affiche correctement dans un navigateur, plusieurs étapes sont nécessaires, depuis l'appel HTTP initial jusqu'au rendu final à l'écran. Optimiser les performances d'un site implique souvent d'améliorer le **chemin critique de rendu** (_critical rendering path_ dans la langue de Steven Tyler). Comprendre le processus de rendu d'une page est essentiel pour y parvenir.
 
 Lorsqu'une requête est effectuée, le navigateur reçoit des données sous forme d'octets. Ces octets sont ensuite convertis en caractères, visibles lorsque l'on consulte le code source d'une page.
 
@@ -28,7 +28,7 @@ C'est pour ça qu'on essaye de minimiser le nombre de requêtes HTTP et de faire
 
 ## 3.1.2. Le DOM
 
-Le **DOM** (_Document Object Model_) représente toute l'arborescence de façon structurée sous forme d'arbre, donc chaque balise HTML est un nœud.
+Le **DOM** (_Document Object Model_) représente toute l'arborescence de façon structurée sous forme d'arbre, dont chaque balise HTML est un nœud.
 
 Il est indépendant de toute plateforme et langage. On manipule le DOM avec des scripts, généralement du JavaScript (nextSibling, parentNode, appendChild…), qui permettent de le parcourir et de le manipuler.
 

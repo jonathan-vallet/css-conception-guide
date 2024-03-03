@@ -36,6 +36,12 @@ Ce guide est le fruit de mon expérience personnelle, et de mes lectures. Il n�
 
 - [Intro](/03-fonctionnement/01-intro.md)
 - [Comment s'affichage une page web](03-fonctionnement/02-affichage-page.md)
+- [Le viewport](03-fonctionnement/03-viewport.md)
+- [L’empilement et le z-index](03-fonctionnement/04-empilement.md)
+
+## Contact
+
+Si vous voulez suivre les mises à jour de ce guide, ou me contacter pour discuter de son contenu, vous pouvez me suivre sur Twitter [@joevallet](https://twitter.com/joevallet)
 
 ## Licence
 
