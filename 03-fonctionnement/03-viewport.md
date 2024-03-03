@@ -6,7 +6,7 @@ Avant de parler du viewport, faisons un petit point sur la résolution. En angla
 
 La définition, c’est le nombre de pixels présents sur la dalle. On la calcule en pixels en multipliant le nombre de pixels sur une ligne horizontal par une ligne verticale. La définition d’un écran d’ordinateur en HD est souvent de 1920 x 1080 pixels (soit 2073600 pixels, communément 2 Mégapixel pour les photos). Un écran 4K fera 3840 x 2160 pixels, soit 4 fois plus de pixels.
 
-La résolution est le rapport entre la définition de la dalle, en pixel, et sa taille physique, exprimée en pouces. On parle de Point Par Pouce (PPP), ou en anglais de Dot Per Inch (DPI). Plus la résolution est élevée, plus la densité de pixels sera importante sur la dalle. Le erme “Retina” a été inventé par Apple pour désigner les smartphones dotés d’une résolution supérieure à 300ppp, densité jugée comme idéale pour la lecture sur une écran de smartphone.
+La résolution est le rapport entre la définition de la dalle, en pixel, et sa taille physique, exprimée en pouces. On parle de Point Par Pouce (PPP), ou en anglais de Dot Per Inch (DPI). Plus la résolution est élevée, plus la densité de pixels sera importante sur la dalle. Le terme “Retina” a été inventé par Apple pour désigner les smartphones dotés d’une résolution supérieure à 300ppp, densité jugée comme idéale pour la lecture sur une écran de smartphone.
 
 ## 3.3.2. Viewport
 
