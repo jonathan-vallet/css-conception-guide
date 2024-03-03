@@ -93,8 +93,8 @@ Si on devait résumer le rôle de chaque partie du design atomique, on aurait:
 
 1. les atomes qui définissent des éléments unitaires, comme textes, titres, boutons, liens, éléments de formulaire…
 2. les molécules qui sont un agrégat d’atomes avec toute la mise en forme nécessaire, qui sont les plus petits et réutilisables possibles;
-3. les organisemes qui disposent les composants correctement;
+3. les organismes qui disposent les composants correctement;
 4. les cellules qui définissent la structure générale de vos page avec la largeur maximale des blocs et l’espacement entre chaque bloc;
 5. l’individu qui représente le contenu dans son ensemble.
 
-> Depuis que je conçois des sites en suivant le design atomique avec des composants facilement réutilisable, j'interviens assez rarement après la mise en ligne d'un site pour faire les évolutions. Généralement le développeur qui va créer de nouvelles pages d'aura qu'à réutiliser des composants et blocs d'autres pages et les agencer différemment sur de nouveaux templates. Il aura tous les éléments à sa disposition, et juste à les imbriquer comme il le souhaite.
+> Depuis que je conçois des sites en suivant le design atomique avec des composants facilement réutilisables, j'interviens assez rarement après la mise en ligne d'un site pour faire les évolutions. Généralement le développeur qui va créer de nouvelles pages n'aura qu'à réutiliser des composants et blocs d'autres pages et les agencer différemment sur de nouveaux templates. Il aura tous les éléments à sa disposition, et juste à les imbriquer comme il le souhaite.
