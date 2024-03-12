@@ -14,3 +14,4 @@ Lorsqu'on explore l'onglet performances de Chrome, on observe plusieurs étapes 
 - [Le viewport](03-fonctionnement/03-viewport.md)
 - [L’empilement et le z-index](03-fonctionnement/04-empilement.md)
 - [Le flow](03-fonctionnement/05-flow.md)
+- [Les unités de longueur](03-fonctionnement/06-unites-longueur.md)
